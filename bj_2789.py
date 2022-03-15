@@ -1,3 +1,4 @@
+# study_abroad_ban(유학금지)
 # 금지되는 알파벳
 BAN_WORD = "CAMBRIDGE"
 
